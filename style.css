@@ -59,7 +59,7 @@ body {
     position: relative;
     display: flex;
     padding: 10px;
-    background: url(leftcard.jpg);
+    background: url(Assets/leftcard.jpg);
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@ body {
     display: flex;
     height: 30px;
     width: 60px;
-    background-image: url(debitcard.png);
+    background-image: url(Assets/debitcard.png);
     background-position: center;
     background-size: cover;
 
@@ -225,7 +225,7 @@ body {
 .iphone_img {
     margin-top: -25PX;
     display: flex;
-    background: url(rightcard.png);
+    background: url(Assets/Assets/rightcard.png);
     background-position: top;
     background-size: cover;
     z-index: 0;
@@ -368,7 +368,7 @@ body {
     overflow: hidden;
     width: 50%;
     border-radius: 15px;
-    background: url(bottomleftimg.jpg);
+    background: url(Assets/bottomleftimg.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -385,7 +385,7 @@ body {
     margin-top: -15px;
 }
 .lineconnect{
-    background: url(line_connect.png);
+    background: url(Assets/line_connect.png);
     height: 120px;
     width: 50%;
     background-position: center;
@@ -453,7 +453,7 @@ body {
     width: 100%;
 }
 .img1{
-    background: url(img1.jpg);
+    background: url(Assets/img1.jpg);
     background-position: center;
     background-size: cover;
     height: 30px;
@@ -461,7 +461,7 @@ body {
 }
 .img2{
     margin-left: -10px;
-    background: url(img2.jpg);
+    background: url(Assets/img2.jpg);
     background-position: center;
     background-size: cover;
     height: 30px;
@@ -469,7 +469,7 @@ body {
 }
 .img3{
     margin-left: -10px;
-    background: url(img3.jpg);
+    background: url(Assets/img3.jpg);
     background-position: center;
     background-size: cover;
     height: 30px;
@@ -477,7 +477,7 @@ body {
 }
 .img4{
     margin-left: -10px;
-    background: url(img4.png);
+    background: url(Assets/img4.png);
     background-position: center;
     background-size: cover;
     height: 30px;
@@ -493,7 +493,7 @@ body {
     display: flex;
     height: 250px;
     width: 40%;
-    background: url(bottomimg.jpg);
+    background: url(Assets/bottomimg.jpg);
     background-position: center;
     background-size: 235px;
     background-repeat: no-repeat;
