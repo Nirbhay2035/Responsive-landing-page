@@ -225,7 +225,7 @@ body {
 .iphone_img {
     margin-top: -25PX;
     display: flex;
-    background: url(Assets/Assets/rightcard.png);
+    background: url(Assets/rightcard.png);
     background-position: top;
     background-size: cover;
     z-index: 0;
